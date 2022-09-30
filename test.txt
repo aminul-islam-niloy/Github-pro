@@ -1,0 +1,13 @@
+In This repository is very important for developer who want to version contol 
+
+#important suggestion:
+1. In this section you can commit and push easily than command prompt.
+2. For best use Good suggestion is use Command Prompt than Github
+
+
+
+step for reading ....
+1. Go to README section and read and practics and try to create readme.md file by reading.
+2.Reading any document is issential for all developer and student who want to learn programming.
+
+Thanks for reading.
