@@ -1,0 +1,10 @@
+git init
+git status to chack and see condition and status 
+ls for show files
+ls-a show hidden files
+mkdir for new directory
+touch for add new file 
+rm -rf file name for remove directory
+ctrl + l clear all
+:q for quit
+
