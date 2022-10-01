@@ -1,0 +1,45 @@
+git commit -m "Valid commit message"
+
+git log to see commit
+git log --oneline to see head and short details
+
+
+you can also use git add . && git commit -m "Commit message at the same time"
+
+to reset local repository to staging and woriking area :
+
+git reset --soft HEAD^
+git reset HEAD^ for direct working stage
+git reset --hard HEAD^ for hard reset and back to previous commit
+
+deleting by position and commit id
+to find commit id follow this command git log --oneline
+after that clean by position:
+
+git reset --soft HEAD~2 to reset previous two
+git reset --soft HEAD~1 to reset previous one
+
+
+To show all details:
+git status
+git log
+git log --oneline 
+git show
+git show commit_id for specific commit
+git show HEAD
+git show HEAD~1
+
+
+Best practics is use git chackout insted of git rstore and 
+git chackout commit_id you can go back previous commmit that you want to go.
+
+Now you can change and and you can push.
+commit will be next future and if you want to go back main or head then type
+
+git chackout master/ main/ your branch
+
+
+
+use upsade?
+
+no tension if you want to save previous commit you can commit in new branch that's for commit will be remain.
