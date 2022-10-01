@@ -1,0 +1,8 @@
+*.p
+*.m
+hello.s
+!story.m
+*.html
+*.cpp
+
+temp/
