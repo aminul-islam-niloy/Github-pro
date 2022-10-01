@@ -1,0 +1,12 @@
+git ignore used for ignoring files that's private and secret.
+
+if you add testsomething.txt then this file will not be upload.
+
+you can follow:
+->.env
+->*.txt      for all .txt file
+-> !main.txt  all but except this file
+-> filename?.txt   (here ? means number) 
+
+folder/  to skip folder
+
