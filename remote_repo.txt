@@ -1,0 +1,18 @@
+In this section you can push your files that's in staging and loacl repository
+
+use git remote
+use git remote -v to see if remote url is added or not
+
+git remote add origin url
+ here origin means refer to this url in next time.
+
+you can use git clone to copy your previous repo and save in local.
+git clone url....
+
+use git push origin master/ main ( branch name)
+
+you can also pull your file that is created ans changed on github by 
+
+git pull origin master/main( branch name)
+and you can add pull message.
+
