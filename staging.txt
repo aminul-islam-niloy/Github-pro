@@ -1,0 +1,11 @@
+git add . for adding all file
+git add filename for add target file
+git add *.js for select all js file
+git add **/*.html for insde all directory select all html file
+
+git diff to see changes
+ git restore --staged name to restore change.
+
+always use git status to see files condition in working stage
+
+
